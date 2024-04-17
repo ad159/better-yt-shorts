@@ -1,0 +1,181 @@
+{
+  "extName": {
+    "message": "Lepší YouTube Shorts",
+    "description": "Name of the extension"
+  },
+  "extDescription": {
+    "message": "Vraťte ovládání YouTube Shorts s posouváním, hlasitosí, ukazatelem průběhu a dalším!",
+    "description": "Description of the extension"
+  },
+  "announcement": {
+    "message": "Help us translate BYS!",
+    "description": "Announcement which will update from time to time"
+  },
+
+  "website": {
+    "message": "Stránka"
+  },
+
+  "keybinds": {
+    "message": "Klávesové zkratky"
+  },
+  "command": {
+    "message": "Příkaz"
+  },
+  "key": {
+    "message": "Klávesa"
+  },
+  "pressKeybinds": {
+    "message": "Stiskněte požadovanou klávesu"
+  },
+  "pressAKey": {
+    "message": "Stiskněte klávesu"
+  },
+  "disabled": {
+    "message": "<zakázáno>"
+  },
+  "notSupportKeyCombo": {
+    "message": "Nepodporujeme klávesové zkratky"
+  },
+  "keyCanBeUsed": {
+    "message": "\"$1\" může být použit!"
+  },
+  "keyCannotBeUsed": {
+    "message": "\"$1\" nemůže být použit"
+  },
+  "keyAlreadyInUse": {
+    "message": "\"$1\" už je používaný"
+  },
+  "disableKeybind": {
+    "message": "\"$1\" byl zakázán!"
+  },
+  "editBinding": {
+    "message": "Upravit klávesovou zkratku pro"
+  },
+  "keybindDisabled": {
+    "message": "Klávesová zkratka je nyní zakázána"
+  },
+  "currentKeybind": {
+    "message": "Aktuální klávesová zkratka je $1"
+  },
+  "confirm": {
+    "message": "Potvrdit"
+  },
+  "disableBind": {
+    "message": "Zakázat zkratku"
+  },
+
+  "resetKB": {
+    "message": "Obnovit klávesové zkratky"
+  },
+  "seekBackward": {
+    "message": "Posun Vzad"
+  },
+  "seekForward": {
+    "message": "Posun Vpřed"
+  },
+  "decreaseSpeed": {
+    "message": "Snížit Rychlost"
+  },
+  "resetSpeed": {
+    "message": "Obnovit Rychlost"
+  },
+  "increaseSpeed": {
+    "message": "Zvýšit Rychlost"
+  },
+  "decreaseVolume": {
+    "message": "Snížit Hlasitost"
+  },
+  "increaseVolume": {
+    "message": "Zvýšit Hlasitost"
+  },
+  "toggleMute": {
+    "message": "Ztlumit"
+  },
+  "toggleFullScreen": {
+    "message": "Přepnout na celou obrazovku"
+  },
+  "nextFrame": {
+    "message": "Další Rámeček"
+  },
+  "previousFrame": {
+    "message": "Předchozí Rámeček"
+  },
+  "restartShort": {
+    "message": "Obnovit Short"
+  },
+  "nextShort": {
+    "message": "Další Short"
+  },
+  "previousShort": {
+    "message": "Předchozí Short"
+  },
+
+  "extraOptions": {
+    "message": "Další Možnosti"
+  },
+  "resetOptions": {
+    "message": "Obnovit Možnosti"
+  },
+
+  "autoSkipTitle": {
+    "message": "Automaticky přeskočit shorty s malým počtem liků"
+  },
+  "skipThresholdTitle": {
+    "message": "Přeskakovat shorty s menším počtem liků než tímto"
+  },
+  "seekAmountTitle": {
+    "message": "Hledané množství v sekundách"
+  },
+  "automaticallyOpenCommentsTitle": {
+    "message": "Automaticky otevřít komentáře na nových shortech"
+  },
+  "hideShortsOverlayTitle": {
+    "message": "Skrýt překrytí v shortech (název, kanál, atd.)"
+  },
+  "showVolumeHorizontally": {
+    "message": "Zobrazovat měnič hlasitosti horizontálně"
+  },
+  "defaultPlaybackRate": {
+    "message": "Výchozí množství posunu"
+  },
+  "toggleFeatures": {
+    "message": "Přepínací Možnosti"
+  },
+  "changesAffectNewShorts": {
+    "message": "Změny se projeví jen u nových Shortů"
+  },
+  "enableAll": {
+    "message": "Povolit Vše"
+  },
+  "disableAll": {
+    "message": "Zakázat Vše"
+  },
+  "autoplay": {
+    "message": "Smyčku"
+  },
+  "progressBar": {
+    "message": "Ukazatel Průběhu"
+  },
+  "timer": {
+    "message": "Čas"
+  },
+  "playbackRate": {
+    "message": "Množství Posunu"
+  },
+  "volumeSlider": {
+    "message": "Měnič Hlasitosti"
+  },
+  "viewCounter": {
+    "message": "Počet Zhlédnutí"
+  },
+  "uploadDate": {
+    "message": "Datum Nahrání"
+  },
+  "enable": {
+    "message": "Povolit $1"
+  },
+  "fullScreenDoubleClick": {
+    "message": "Dvojklik pro přepnutí na celou obrazovku"
+  }
+}
